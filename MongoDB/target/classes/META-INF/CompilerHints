@@ -1,0 +1,8 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,com/mongodb/test/BatchWriter.insert
+inline,com/mongodb/test/DataReader.read
+inline,com/mongodb/test/DataWriter.insert

@@ -1,0 +1,8 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,com/postgres/test/PostgresBatchInsert.insert
+inline,com/postgres/test/PostgresReader.read
+inline,com/postgres/test/PostgresWriter.insert

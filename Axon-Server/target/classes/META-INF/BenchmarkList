@@ -1,0 +1,3 @@
+JMH S 34 com.axonserver.test.AxonDataWriter S 63 com.axonserver.test.jmh_generated.AxonDataWriter_insert_jmhTest S 6 insert S 14 SingleShotTime E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 34 com.axonserver.test.AxonReadClient S 63 com.axonserver.test.jmh_generated.AxonReadClient_insert_jmhTest S 6 insert S 14 SingleShotTime E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 35 com.axonserver.test.BatchDataWriter S 64 com.axonserver.test.jmh_generated.BatchDataWriter_insert_jmhTest S 6 insert S 14 SingleShotTime E A 1 1 1 E E E E E E E E E E E E E E E E E 

@@ -1,0 +1,2 @@
+JMH S 23 com.kafka.test.Consumer S 54 com.kafka.test.jmh_generated.Consumer_pushData_jmhTest S 8 pushData S 14 SingleShotTime E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 23 com.kafka.test.Producer S 54 com.kafka.test.jmh_generated.Producer_pushData_jmhTest S 8 pushData S 14 SingleShotTime E A 1 1 1 E E E E E E E E E E E E E E E E E 

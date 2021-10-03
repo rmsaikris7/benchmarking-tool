@@ -1,0 +1,3 @@
+JMH S 37 com.postgres.test.PostgresBatchInsert S 66 com.postgres.test.jmh_generated.PostgresBatchInsert_insert_jmhTest S 6 insert S 14 SingleShotTime E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 32 com.postgres.test.PostgresReader S 59 com.postgres.test.jmh_generated.PostgresReader_read_jmhTest S 4 read S 14 SingleShotTime E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 32 com.postgres.test.PostgresWriter S 61 com.postgres.test.jmh_generated.PostgresWriter_insert_jmhTest S 6 insert S 14 SingleShotTime E A 1 1 1 E E E E E E E E E E E E E E E E E 
